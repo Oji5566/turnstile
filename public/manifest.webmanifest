@@ -1,0 +1,20 @@
+{
+  "name": "Turnstile",
+  "short_name": "Turnstile",
+  "description": "A simple, reliable holder for your paper transit tickets.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#54bbe1",
+  "background_color": "#F6F8F7",
+  "categories": ["productivity", "travel", "utilities"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
